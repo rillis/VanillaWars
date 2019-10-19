@@ -1,0 +1,35 @@
+name: VanillaWars
+main: com.rillis.Vanilla
+version: 1.0
+api-version: 1.14
+commands:
+   lideres:
+      description: Mostra os lideres
+      usage: /lideres
+   setbase:
+      description: Define a base
+      usage: /setbase
+   base:
+      description: Vai ate a base
+      usage: /base
+   recrutar:
+      description: Recruta alguem
+      usage: /recrutar <nick>
+   alistar:
+      description: Se alista
+      usage: /alistar
+   alistados:
+      description: Mostra quem esta alistado na sua equipe
+      usage: /alistados
+   raid:
+      description: Inicia um raid
+      usage: /raid
+   highlight:
+      description: Inicia um raid
+      usage: /highlight
+   g:
+      description: Fala no global
+      usage: /g <msg>
+   equipe:
+      description: Informacoes sobre a equipe
+      usage: /equipe
